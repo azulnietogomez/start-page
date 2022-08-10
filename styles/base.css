@@ -1,11 +1,12 @@
 :root {
     /*Colors*/
-    --bg-color: ;
+    --navy-blue: #141E30;
+    --gray-blue: #243B55;
     --acc-color: ;
     --text-color: ;
     /*Fonts*/
-    --titles: ;
-    --links: ;
+    --titles: 'Kanit', sans-serif ;
+    --links: 'Kanit', sans-serif ;
     --clock: 'Silkscreen', cursive;
     /*sizes*/
 }
