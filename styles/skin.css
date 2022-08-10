@@ -13,4 +13,35 @@
                  4px 4px 0px green,
                  5px 5px 0px blue,
                  6px 6px 0px purple;
-    }
+}
+
+
+.side-img {
+    background-image: url(/img/índice.png);
+    background-position: center;
+    background-position: no-repeat;
+    background-size: cover;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+
+.search-input {
+    padding-left: 20px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    color: gray;
+}
+
+.search-icon {
+    font-size: 2rem;
+    color: white;
+}
