@@ -1,3 +1,16 @@
 /* div {
     background-color: azure;
 } */
+
+
+.DisplayClock {
+    font-family: var(--clock);
+    font-size: 4rem;
+    color: white;
+    text-shadow: 1px 1px 0px red,
+                 2px 2px 0px orange,
+                 3px 3px 0px yellow,
+                 4px 4px 0px green,
+                 5px 5px 0px blue,
+                 6px 6px 0px purple;
+    }

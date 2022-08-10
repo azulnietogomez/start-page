@@ -6,7 +6,7 @@
     /*Fonts*/
     --titles: ;
     --links: ;
-    --clock: ;
+    --clock: 'Silkscreen', cursive;
     /*sizes*/
 }
 
@@ -15,7 +15,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    outline: solid 1px red;
+    /* outline: solid 1px red; */
 }
 
 
