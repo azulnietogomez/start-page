@@ -1,9 +1,11 @@
 :root {
     /*Colors*/
-    --navy-blue: #141E30;
-    --gray-blue: #243B55;
-    --acc-color: ;
-    --text-color: ;
+    --background: #0f0e17;
+    --main: #fffffe;
+    --highlight: #ff8906;
+    --secondary: #f25f4c;
+    --tertiary: #e53170;
+    --paragraph: #a7a9be;
     /*Fonts*/
     --titles: 'Kanit', sans-serif ;
     --links: 'Kanit', sans-serif ;
