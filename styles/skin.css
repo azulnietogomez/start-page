@@ -7,17 +7,20 @@
     font-family: var(--clock);
     font-size: 4rem;
     color: white;
-    text-shadow: 1px 1px 0px red,
+    text-shadow: 1px 1px 0px var(--background),
+                 2px 2px 0px var(--secondary),
+                 3px 3px 0px var(--tertiary);
+    /* text-shadow: 1px 1px 0px red,
                  2px 2px 0px orange,
                  3px 3px 0px yellow,
                  4px 4px 0px green,
                  5px 5px 0px blue,
-                 6px 6px 0px purple;
+                 6px 6px 0px purple; */
 }
 
 
 .side-img {
-    background-image: url(/img/índice.png);
+    background-image: url(/img/WhatsApp-Video-2022-08-12-at-12.14.47-PM.gif);
     background-position: center;
     background-position: no-repeat;
     background-size: cover;
