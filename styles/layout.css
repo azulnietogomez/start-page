@@ -13,6 +13,7 @@ main {
     gap: 10px;
     width: 90%;
     height: 80%;
+    padding-top: 50px;
 }
 
 
@@ -98,4 +99,9 @@ main {
 
 .link-list {
     padding-left: 20px;
+}
+
+.link-title {
+    margin-top: 10px;
+    margin-bottom: 5px;
 }
